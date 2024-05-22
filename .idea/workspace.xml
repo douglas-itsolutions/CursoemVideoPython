@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8bab51b8-a1e1-4572-98b4-642a801a4bf6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.device_info_4d06324c-8882-4055-94e8-772cffd75cdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CursoemVideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aula10a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula011a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula08c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula09a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula10b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula10c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de0014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de021.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de021a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de021c.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de021c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de022.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de023.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de030.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de031.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de032.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de033.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de034.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de035.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex000.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex001.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003-1a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003-1b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003-1c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003-1d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex005-1a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex006-1a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex006-1b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex006-1c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/years.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "douglas-itsolutions"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/douglas-itsolutions/CursoemVideoPython.git",
+    "accountId": "381f3bbe-4c18-4f5b-a66e-f5b13c8416ef"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2evtulMeAJVbwjLHs7xbeIMDLZV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula10a.executor": "Run",
+    "Python.aula011a.executor": "Run",
+    "Python.aula08c.executor": "Run",
+    "Python.aula09a.executor": "Run",
+    "Python.aula10b.executor": "Run",
+    "Python.de016.executor": "Run",
+    "Python.de017.executor": "Run",
+    "Python.de018.executor": "Run",
+    "Python.de019.executor": "Run",
+    "Python.de020.executor": "Run",
+    "Python.de021.executor": "Run",
+    "Python.de021a.executor": "Run",
+    "Python.de021c.executor": "Run",
+    "Python.de022.executor": "Run",
+    "Python.de023.executor": "Run",
+    "Python.de024.executor": "Run",
+    "Python.de025.executor": "Run",
+    "Python.de026.executor": "Run",
+    "Python.de027.executor": "Run",
+    "Python.de028.executor": "Run",
+    "Python.de029.executor": "Run",
+    "Python.de030.executor": "Run",
+    "Python.de031.executor": "Run",
+    "Python.de032.executor": "Run",
+    "Python.de033.executor": "Run",
+    "Python.de034.executor": "Run",
+    "Python.de035.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/10_Labs/Dev/Python/PyCharm/CursoemVideo",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\10_Labs\Dev\Python\PyCharm\CursoemVideo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.aula011a">
+    <configuration name="aula011a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula011a.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="de032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de032.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="de033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de033.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="de034" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de034.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="de035" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/de035.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="CursoemVideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula011a" />
+        <item itemvalue="Python.de035" />
+        <item itemvalue="Python.de034" />
+        <item itemvalue="Python.de033" />
+        <item itemvalue="Python.de032" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bab51b8-a1e1-4572-98b4-642a801a4bf6" name="Changes" comment="" />
+      <created>1712797104799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712797104799</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
